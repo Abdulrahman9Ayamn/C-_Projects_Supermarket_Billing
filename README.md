@@ -1,2 +1,6 @@
-# C-_Projects_Supermarket_Billing
+# Git_Course
 C++ Projects  Supermarket Billing
+
+
+
+  ## Project Notes
